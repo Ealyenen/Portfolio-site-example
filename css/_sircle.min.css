@@ -1,1 +1,1 @@
-.sircle-befor:before{content:"";background-color:var(--main-color);width:36px;height:36px;border-radius:50%;border:none;position:absolute;top:-6px;left:-5px;z-index:-1}
+.sircle-befor:before{content:"";background-color:var(--main-color);width:36px;height:36px;border-radius:50%;border:none;position:absolute;top:-6px;left:-5px;z-index:-1}.icon-sircle:before{content:"";background-color:var(--main-color);width:36px;height:36px;border-radius:50%;border:none;position:absolute;top:-15px;left:-15px;z-index:-1}
