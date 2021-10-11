@@ -12,3 +12,11 @@ cross.addEventListener('click', () => {
     navMenu.classList.remove('menu-block_active')
     overlay.classList.remove('menu-overlay_active')
 });
+
+
+const procent = document.querySelectorAll('.procent'),
+      procentLine = document.querySelectorAll('.procent-line');
+
+procent.forEach( (item, i) => {
+    procentLine[i].style.width = item.innerHTML;
+});
